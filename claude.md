@@ -279,6 +279,7 @@
 - 世界観：`world/` フォルダ
 - 主人公：`characters/protagonist.md`
 - 物語構造：`story/` フォルダ
+- **10年プロット：`story/plot_10years.md`**（全10章の詳細）
 - テーマ：`themes/core_themes.md`
 - 執筆済みシーン：`scenes/` フォルダ
 
