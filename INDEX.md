@@ -31,6 +31,7 @@
 | `05_fairy_origin_secret.md` | 【隠し設定】フェアリーの起源、継承者、統計的判断の仕組み |
 | `06_culture_education.md` | 【隠し設定】継承者が形成した文化・教育・言語操作 |
 | `07_social_system.md` | 社会制度全般（統治・経済・法・家族・医療・日常生活） |
+| `08_successor_doctrine.md` | 【隠し設定】継承者の経典。設計思想と正当化の論理 |
 
 ---
 
