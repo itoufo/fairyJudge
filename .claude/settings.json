@@ -1,0 +1,24 @@
+{
+  "skills": {
+    "review": {
+      "description": "総合レビュー - 4つの専門家による包括的なレビューを実行",
+      "prompt": "story/とscenes/の全ファイルを対象に、.claude/skills/review-master.mdの指示に従って総合レビューを実行してください。キャラクター一貫性、読者知識一貫性、歴史一貫性、世界法則一貫性の4観点からレビューし、統合レポートを出力してください。"
+    },
+    "review-character": {
+      "description": "キャラクター一貫性レビュー - 性格、感情、成長の一貫性をチェック",
+      "prompt": ".claude/skills/review-character-consistency.mdの指示に従って、指定されたファイル（または全scenes/とcharacters/）のキャラクター一貫性をレビューしてください。特に主人公レイの「説教しない」「正解を持たない」という禁則に注意してください。"
+    },
+    "review-knowledge": {
+      "description": "読者知識一貫性レビュー - 情報開示タイミングと前提知識をチェック",
+      "prompt": ".claude/skills/review-reader-knowledge.mdとstory/reader_knowledge_design.mdを参照し、各シーンでの情報開示が適切かレビューしてください。特に「フェアリーの起源」「継承者」「外部世界」の開示タイミングに注意してください。"
+    },
+    "review-history": {
+      "description": "歴史一貫性レビュー - 年代、年齢、歴史的事実の整合性をチェック",
+      "prompt": ".claude/skills/review-history-consistency.mdの年表を基準に、全ファイルの歴史的言及をレビューしてください。特にキャラクターの年齢計算と「300年」「2847名」などの絶対数値に注意してください。"
+    },
+    "review-rules": {
+      "description": "世界法則一貫性レビュー - CLAUDE.mdの禁則事項遵守をチェック",
+      "prompt": ".claude/skills/review-world-rules.mdとCLAUDE.mdを参照し、禁則事項が守られているかレビューしてください。特に「フェアリーを悪として描かない」「主人公を革命家にしない」に注意してください。"
+    }
+  }
+}
