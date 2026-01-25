@@ -6,23 +6,23 @@
 ## 配下の専門家
 
 ### 1. キャラクター一貫性レビュアー
-- ファイル: `review-character-consistency.md`
+- ファイル: `review-character/SKILL.md`
 - 担当: 性格、感情、成長、関係性、口調
 
 ### 2. 読者知識一貫性レビュアー
-- ファイル: `review-reader-knowledge.md`
+- ファイル: `review-knowledge/SKILL.md`
 - 担当: 情報開示タイミング、前提知識、説明の適切さ
 
 ### 3. 歴史一貫性レビュアー
-- ファイル: `review-history-consistency.md`
+- ファイル: `review-history/SKILL.md`
 - 担当: 年代、歴史的事実、キャラクター年齢
 
 ### 4. 世界法則一貫性レビュアー
-- ファイル: `review-world-rules.md`
+- ファイル: `review-rules/SKILL.md`
 - 担当: 絶対法則、禁則事項、許容事項
 
 ### 5. 映画脚本家レビュアー
-- ファイル: `review-screenplay.md`
+- ファイル: `review-screenplay/SKILL.md`
 - 担当: 映像化可能性、絵になる瞬間、Show Don't Tell、視覚的対比
 
 ## レビューフロー
