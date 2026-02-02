@@ -7,7 +7,7 @@
 ## 専門レビュアー
 
 ### 1. キャラクター一貫性レビュアー
-**ファイル**: `skills/review-character-consistency.md`
+**ファイル**: `skills/review-character/SKILL.md`
 
 **チェック内容**:
 - 性格の一貫性（「一言定義」との一致）
@@ -24,7 +24,7 @@
 ---
 
 ### 2. 読者知識一貫性レビュアー
-**ファイル**: `skills/review-reader-knowledge.md`
+**ファイル**: `skills/review-knowledge/SKILL.md`
 
 **チェック内容**:
 - 未知の情報への言及
@@ -41,7 +41,7 @@
 ---
 
 ### 3. 歴史一貫性レビュアー
-**ファイル**: `skills/review-history-consistency.md`
+**ファイル**: `skills/review-history/SKILL.md`
 
 **チェック内容**:
 - 年代の整合性
@@ -59,7 +59,7 @@
 ---
 
 ### 4. 世界法則一貫性レビュアー
-**ファイル**: `skills/review-world-rules.md`
+**ファイル**: `skills/review-rules/SKILL.md`
 
 **チェック内容**:
 - 才能の3原則
@@ -123,9 +123,9 @@
 ├── README.md（このファイル）
 ├── settings.json（スキル定義）
 └── skills/
-    ├── review-master.md（統括）
-    ├── review-character-consistency.md
-    ├── review-reader-knowledge.md
-    ├── review-history-consistency.md
-    └── review-world-rules.md
+    ├── review/SKILL.md（統括）
+    ├── review-character/SKILL.md
+    ├── review-knowledge/SKILL.md
+    ├── review-history/SKILL.md
+    └── review-rules/SKILL.md
 ```
